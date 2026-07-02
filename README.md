@@ -65,23 +65,3 @@
 ⭐ From Sudhakar | Made with ❤️</p>
 
 ---
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudhakar0306&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sudhakar-v-9a89b43b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-⭐ From Sudhakar | Made with ❤️## Hi there 👋
-
-
