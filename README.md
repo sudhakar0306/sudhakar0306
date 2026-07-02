@@ -41,7 +41,10 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhakar0306&show_icons=true" />
+- 🚀 Developed Machine Learning projects using Python & Flask  
+- 📊 Built Data Analysis solutions using Pandas & NumPy  
+- 🌐 Created web-based ML applications  
+- 🎯 Completed multiple real-time AI projectsdhakar0306&show_icons=true" />
 </p>
 
 ---
