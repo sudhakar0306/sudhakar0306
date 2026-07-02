@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sudhakar</h1>
-<h3 align="center">🚀 Associate Software Developer | 🐍 Python Developer | 📊 Data Analyst | 🤖 ML Engineer | 🌐 Flask </h3>
+<h3 align="center">🚀 Associate Software Developer | 🐍 Python Developer | 📊 Data Analyst  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Associate+Software+Developer;Python+Developer;Data+Analyst;Machine+Learning+Flask+Developer;AI+Project+Builder">
