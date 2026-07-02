@@ -41,7 +41,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakar0306&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhakar0306&show_icons=true" />
 </p>
 
 ---
